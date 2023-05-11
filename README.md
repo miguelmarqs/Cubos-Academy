@@ -1,1 +1,1 @@
-# Cubos-Academy
+# Um programa em js mostrando "hello world"
